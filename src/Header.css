@@ -39,6 +39,10 @@
     color: gray;
 }
 
+.header__inputButton:hover {
+    cursor: pointer;
+}
+
 .header__icon {
     margin-right: 8px;
 }
